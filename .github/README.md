@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/982ec4ada80588eb9de3d.jpg">
+  <img src="https://graph.org/file/12fc05e7539943c82277c.jpg">
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐕𝐚𝐬𝐡𝐮+𝗞𝗜𝗡𝗚🔥">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝐏𝐑𝐄𝐒𝐄𝐍𝐓;❤️+𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐁𝐘+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐍𝐎𝐁𝐈𝐓𝐀🔥">
 
 <p align="center">
-  <img src="https://graph.org/file/982ec4ada80588eb9de3d.jpg">
+  <img src="https://graph.org/file/12fc05e7539943c82277c.jpg">
 </p>
 
 <h3 align="center">
